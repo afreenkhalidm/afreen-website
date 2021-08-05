@@ -15,7 +15,7 @@ image:
 links:
 - icon: 
   icon_pack: fab
-  name: Follow
+  name: Link
   url: https://osf.io/xesyc/
 url_code: ""
 url_pdf: ""
