@@ -14,7 +14,7 @@ organizations:
   url: https://www.ru.nl/english/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am interested in understanding the behavioural and neural processing underlying empathy, altruism and prosocial behaviour
 
 # Interests to show in About widget
 interests:
@@ -27,7 +27,7 @@ interests:
 education:
   courses:
   - course: Msc in Behavioural Science
-    institution: Radboud University
+    institution: Radboud University, the Netherlands
     year: 2020
   - course: BSc in Psychology
     institution: IIU, Malaysia
@@ -63,8 +63,8 @@ email: ""
 highlight_name: false
 ---
 
-Afreen Khalid is a Research Master graduate from Radboud University in the Netherlands. Her research interests include prosocial behaviour, empathy, (effective) altruism, inequality, and discrimination. 
+I am a Research Master graduate from Radboud University in the Netherlands. Her research interests include prosocial behaviour, empathy, (effective) altruism, inequality, and discrimination. During my Master's programme, I spent my time on a project which attempted to understand how wealth inequality affects giving behaviour. Currently, I am working as a university assistant and PhD candidate at the University of Klagenfurt in Austria. Here I am working on various projects that aim to understand why people are ineffective altruists i.e. why they do not consider the efficiency of their donations. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+More generally, I am passionate about open science, reproducibility, statistics, and the philosophy of science. My goal is to contribute to science by doing societally relevant research, while maintaining transparancy and integrity in my research practices. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}} latest resumé{{< /staticref >}}.
