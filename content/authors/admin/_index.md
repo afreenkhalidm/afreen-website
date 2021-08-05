@@ -67,4 +67,4 @@ I am a Research Master graduate from Radboud University in the Netherlands. My r
 
 More generally, I am passionate about open science, reproducibility, improving statistical practices, and the philosophy of science. My goal is to contribute to science by doing societally relevant research, while maintaining transparency and integrity in my research practices. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}} latest resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}} latest resumé{{< /staticref >}}.
