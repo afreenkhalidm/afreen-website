@@ -6,7 +6,7 @@ tags:
 date: "2021-08-05"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://osf.io/xesyc/"
+external_link: ""
 
 image:
   caption: Photo by rawpixel on Unsplash
