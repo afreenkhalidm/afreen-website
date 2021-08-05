@@ -1,22 +1,22 @@
 ---
-title: InterpellaR
-summary: Linking Parliamentary documents of German federal states to a relational legislator database.
+title: Climbing the Ladder: The Role of Transitioning Across Wealth Levels on Distributive Preferences
+summary: Master's Thesis Project
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- distributive preferences
+date: "2021-08-05"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://osf.io/xesyc/"
 
 image:
-  caption: Bayrischer Landtag
+  caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/marius_saeltzer
+  url: https://twitter.com/afreenksm
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -29,5 +29,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+Past research suggests that contextual factors such as transitioning across wealth levels may affect people’s distributive preferences. In the current study, I explored this question by investigating distributive preferences in a Dictator Game (DG) setting. To induce external inequality between players separate from the DG context, I distributed extra bonus money or ‘wealth’ to players. I investigated if distributive preferences in a DG differ for individuals who experience increases in their wealth level (transitioners) as compared to individuals who stay at a stable wealth level. Additionally, I examined whether transitioners give more to less wealthy recipients compared to non-transitioners, and whether transitions and non-transitioners differ in their preferences as a function of whether their wealth was acquired via merit or luck. Results from 124 participants suggested that transitioners do not significantly differ from non-transitioners with regard to distributive preferences. This might be because the effects of income transitioning only manifest if individuals spend considerable time in a particular wealth level or because there are other mechanisms at play. Future studies may yield results more in line with theory by featuring designs that effectively capture the effect of transitioning across wealth levels.
 
-As part of the DFG funded project "Populist Challenge in Parliaments" we scrape, download, OCR and parse more than 300,000 parliamentary questions in 15 German federal states and link them to a relational database. We create a relational database of state legislators after the role model of Simon Munzert's and Sascha Göbel's legislatoR. Like legislatoR, it is based on wikipedia. Image source: www.wikipedia.de
