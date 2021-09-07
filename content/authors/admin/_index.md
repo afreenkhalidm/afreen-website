@@ -6,7 +6,7 @@ title: Afreen Khalid
 superuser: true
 
 # Role/position/tagline
-role: MSc in Behavioural Science
+role: PhD Candidate in Behavioural Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,14 +14,15 @@ organizations:
   url: https://www.ru.nl/english/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in understanding the behavioural and neural processing underlying empathy, altruism and prosocial behaviour
+bio: I am interested in understanding the behavioural and neural processing underlying empathy, intergroup conflict, bias and prosocial behaviour
 
 # Interests to show in About widget
 interests:
+- Empathy
+- Intergroup Conflict and Bias
 - Prosocial Decision-Making
 - Behavioural Economics
 - Charitable Giving
-- Effective Altruism
 
 # Education to show in About widget
 education:
