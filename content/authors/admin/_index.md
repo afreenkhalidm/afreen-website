@@ -64,7 +64,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a Research Master graduate from Radboud University in the Netherlands. My research interests include prosocial behaviour, empathy, intergroup conflict and bias, (effective) altruism, and inequality. During my Master's programme, I worked on a project which attempted to understand how wealth inequality affects giving behaviour. As a university assistant (pre-doc) at the University of Klagenfurt in Austria, I worked on various projects that aimed to understand why people are ineffective altruists i.e. why they do not consider the efficiency of their donations. 
+I am a Research Master's graduate from Radboud University in the Netherlands. My research interests include prosocial behaviour, empathy, intergroup conflict and bias, (effective) altruism, and inequality. During my Master's programme, I worked on a project which attempted to understand how wealth inequality affects giving behaviour. As a university assistant (pre-doc) at the University of Klagenfurt in Austria, I worked on various projects that aimed to understand why people are ineffective altruists i.e. why they do not consider the efficiency of their donations. 
 
 I am excited to be starting as a PhD Candidate at Radboud University in October 2021. In this project, I will use both lab and field experiments to gain insights into designing sustainable interventions that reduce prejudice and discrimination. 
 
